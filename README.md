@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **prachi0701/prachi0701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center"><b>Hi, I'm Prachi Bhati</b></h1>
+<h1 align="center"><b>Hi, I'm Prachi Bhati👋</b></h1>
 
 <p align="center">
   <a href="LinkedIn_Profile_Link"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 150px width="35"></a>
@@ -57,7 +56,7 @@ Here are some ideas to get you started:
 
 
 
-------
+
 
 
 
@@ -116,7 +115,43 @@ Here are some ideas to get you started:
 
 <!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
 
+###
 
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
+<br>
+<div align='left'>
+
+<ul>
+
+<li>
+  <a href="https://www.linkedin.com/in/prachi-bhati-1b6232241/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin:  prachibhati-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+  </a>
+</li>
+
+<br>
+
+
+<li>
+  <a href="mailto:prachiarya0043@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/gmail:  prachiarya0043-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt=mail style="margin-bottom: 5px;" />
+  </a>
+</li>
+
+</ul>
+</div>
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+<br>
+<br>
+
+<div align='center'>
+
+
+
+###
 
 
 
